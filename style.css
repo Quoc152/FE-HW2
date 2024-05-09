@@ -71,7 +71,7 @@ body {
     justify-content: center; /* Căn giữa theo chiều dọc */
     align-items: center; /* Căn giữa theo chiều ngang */
     text-align: center; /* Căn giữa văn bản trong main1 */
-    background-color: rgb(28, 46, 64);
+    background-color: rgba(34, 49, 64, 0.998);
     color: white;
     width: 100%;
 }
