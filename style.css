@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 0 ;
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
@@ -82,6 +82,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    color: rgba(249, 249, 249, 0.973);
 }
 
 .items1list, .items2list {
@@ -117,6 +118,7 @@ img {
     justify-content: space-between;
     width: 400px;
     height: 150px;
+    color: rgba(249, 249, 249, 0.973);
 }
 
 .local-text, .number, .facebook, .in {
